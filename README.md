@@ -1373,7 +1373,7 @@ Graph Neural Network<a name="Continue-Learning"></a>
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf
 
-Code:  https://snnet.github.io
+- Code:  https://snnet.github.io
 
 **Integral Neural Networks**
 
@@ -1401,7 +1401,7 @@ Code:  https://snnet.github.io
 
 # Multi-view Clustering
 
-**On the Effects of  Self-supervision and Contrastive Alignment in Deep Multi-view Clustering**
+**On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Trosten_On_the_Effects_of_Self-Supervision_and_Contrastive_Alignment_in_Deep_CVPR_2023_paper.pdf
 - Code:  https://github.com/DanielTrosten/DeepMVC
