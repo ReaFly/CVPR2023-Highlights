@@ -1,57 +1,57 @@
 # CVPR 2023 Highlight Papers
 
 - [Dataset](#Dataset)
-- [Image Classification](#Image Classification)
-- [Image Segmentation](#Image Segmentation)
-- [Image Generation/Editing](#Image Generation/Editing)
-- [Image Similarity](#Image Similarity)
-- [Image Matching](#Image Matching)
-- [Image Retrieval](#Image Retrieval)
-- [Image Processing](#Image Processing)
-- [Image Compression](#Image Compression)
+- [Image Classification](#Classification)
+- [Image Segmentation](#Segmentation)
+- [Image Generation/Editing](#Generation)
+- [Image Similarity](#Similarity)
+- [Image Matching](#Matching)
+- [Image Retrieval](#Retrieval)
+- [Image Processing](#Processing)
+- [Image Compression](#Compression)
 - [Super-Resolution](#Super-Resolution)
-- [Object Detection](#Object Detection)
-- [Object Tracking](#Object Tracking)
-- [Autonomous Driving](#Autonomous Driving)
-- [Crowd Counting](#Crowd Counting)
-- [Face Recognition](#Face Recognition)
-- [Action Recognition](#Action Recognition)
-- [Gait Recognition](#Gait Recognition)
-- [Place Recognition](#Place Recognition)
-- [Gesture Generation](#Gesture Generation)
+- [Object Detection](#Detection)
+- [Object Tracking](#Tracking)
+- [Autonomous Driving](#Driving)
+- [Crowd Counting](#Counting)
+- [Face Recognition](#Face)
+- [Action Recognition](#Action)
+- [Gait Recognition](#Gait)
+- [Place Recognition](#Place)
+- [Gesture Generation](#Gesture)
 - [Re-Identification](#Re-Identification)
-- [Multi-Modal Learning](#Multi-Modal Learning)
-- [Pose Estimation](#Pose Estimation)
-- [3D Vision](#3D Vision)
-- [Depth Estimation](#Depth Estimation)
+- [Multi-Modal Learning](#Multi-Modal)
+- [Pose Estimation](#Pose)
+- [3D Vision](#3D)
+- [Depth Estimation](#Depth)
 - [Robot](#Robot)
-- [Camera Calibration](#Camera Calibration)
+- [Camera Calibration](#Camera-Calibration)
 - [SLAM](#SLAM)
-- [Point Cloud](#Point Cloud)
-- [Flow/Motion Estimation](#Flow/Motion Estimation)
-- [Motion Synthesis](#Motion Synthesis)
-- [Feature Tracking](#Feature Tracking)
-- [Medical Imaging](#Medical Imaging)
-- [Methane Detection](#Methane Detection)
-- [Subcellular Structure](#Subcellular Structure)
-- [DNN Optimization](#DNN Optimization)
-- [Representation Learning](#Representation Learning)
-- [Zero-shot Learning](#Zero-shot Learning)
-- [Semi-supervised Learning](#Semi-supervised Learning)
-- [Adversarial Robustness](#Adversarial Robustness)
-- [Domain Adaptation](#Domain Adaptation)
-- [Active Learning](#Active Learning)
-- [Dataset Condensation](#Dataset Condensation)
-- [Federated Learning](#Federated Learning)
-- [Visualization and Interpretability](#Visualization and Interpretability)
+- [Point Cloud](#Point-Cloud)
+- [Flow/Motion Estimation](#Flow)
+- [Motion Synthesis](#Motion-Synthesis)
+- [Feature Tracking](#Feature-Tracking)
+- [Medical Imaging](#Medical)
+- [Methane Detection](#Methane)
+- [Subcellular Structure](#Subcellular)
+- [DNN Optimization](#DNN)
+- [Representation Learning](#Representation)
+- [Zero-shot Learning](#Zero-shot)
+- [Semi-supervised Learning](#Semi-supervised)
+- [Adversarial Robustness](#Robustness)
+- [Domain Adaptation](#Domain-Adaptation)
+- [Active Learning](#Active-Learning)
+- [Dataset Condensation](#Dataset-Condensation)
+- [Federated Learning](#Federated-Learning)
+- [Visualization and Interpretability](#Visualization-Interpretability)
 - [Attention](#Attention)
-- [Knowledge Distillation](#Knowledge Distillation)
-- [Model Fitting](#Model Fitting)
-- [Continue Learning](#Continue Learning)
-- [Network Compression / Neural Architecture Search](#Network Compression / Neural Architecture Search)
+- [Knowledge Distillation](#Knowledge-Distillation)
+- [Model Fitting](#Model-Fitting)
+- [Continue Learning](#Continue-Learning)
+- [Network Compression / Neural Architecture Search](#Network-Compression)
 - [Uncertainty](#Uncertainty)
-- [Graph Neural Network](#Graph Neural Network)
-- [Multi-view Clustering](#Multi-view Clustering)
+- [Graph Neural Network](#Graph)
+- [Multi-view Clustering](#Clustering)
 
 
 
@@ -94,7 +94,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Toschi_ReLight_My_NeRF_A_Dataset_for_Novel_View_Synthesis_and_CVPR_2023_paper.pdf
 - Code:  https://eyecan-ai.github.io/rene/
 
-<a name="Image Classification"></a>
+<a name="Classification"></a>
 
 # Image Classification
 
@@ -113,7 +113,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_OpenMix_Exploring_Outlier_Samples_for_Misclassification_Detection_CVPR_2023_paper.pdf
 - Code: https://github.com/Impression2805/OpenMix
 
-<a name="Image Segmentation"></a>
+<a name="Segmentation"></a>
 
 # Image Segmentation
 
@@ -170,7 +170,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Interactive_Segmentation_As_Gaussion_Process_Classification_CVPR_2023_paper.pdf
 - Code: https://github.com/zmhhmz/GPCIS_CVPR2023
 
-<a name="Image Generation/Editing"></a>
+<a name="Generation"></a>
 
 # Image Generation/Editing Image Generation/Editing 
 
@@ -244,7 +244,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf
 - code: https://dreambooth.github.io/
 
-**Understanding Deep Generative  Models with Generalized Empirical Likelihoods**
+**Understanding Deep Generative Models with Generalized Empirical Likelihoods**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Ravuri_Understanding_Deep_Generative_Models_With_Generalized_Empirical_Likelihoods_CVPR_2023_paper.pdf
 
@@ -267,7 +267,7 @@
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Li_StyleGene_Crossover_and_Mutation_of_Region-Level_Facial_Genes_for_Kinship_CVPR_2023_paper.pdf
 
-<a name="Image Similarity"></a>
+<a name="Similarity"></a>
 
 # Image Similarity
 
@@ -276,7 +276,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Vaze_GeneCIS_A_Benchmark_for_General_Conditional_Image_Similarity_CVPR_2023_paper.pdf
 - Code:  https://sgvaze.github.io/genecis/
 
-<a name="Image Matching"></a>
+<a name="Matching"></a>
 
 # Image Matching
 
@@ -289,7 +289,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Edstedt_DKM_Dense_Kernelized_Feature_Matching_for_Geometry_Estimation_CVPR_2023_paper.pdf
 - Code: https://github.com/Parskatt/DKM
 
-<a name="Image Retrieval"></a>
+<a name="Retrieval"></a>
 
 # Image Retrieval
 
@@ -298,7 +298,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.pdf
 - Code: https://github.com/buptLinfy/ZSE-SBIR
 
-<a name="Image Processing"></a>
+<a name="Processing"></a>
 
 # Image Processing
 
@@ -325,7 +325,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Nighttime_Smartphone_Reflective_Flare_Removal_Using_Optical_Center_Symmetry_Prior_CVPR_2023_paper.pdf
 - code: https://ykdai.github.io/projects/BracketFlare
 
-<a name="Image Compression"></a>
+<a name="Compression"></a>
 
 # Image Compression
 
@@ -348,7 +348,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_High-Quality_and_Efficient_Video_Super-Resolution_via_Spatial-Temporal_Data_Overfitting_CVPR_2023_paper.pdf
 - Code: https://github.com/coulsonlee/STDO-CVPR2023.git
 
-<a name="Object Detection"></a>
+<a name="Detection"></a>
 
 # Object Detection
 
@@ -394,7 +394,7 @@
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_BEVFormer_v2_Adapting_Modern_Image_Backbones_to_Birds-Eye-View_Recognition_via_CVPR_2023_paper.pdf
 
-<a name="Object Tracking"></a>
+<a name="Tracking"></a>
 
 # Object Tracking
 
@@ -407,7 +407,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.pdf
 - Code: https://github.com/MIV-XJTU/ARTrack
 
-<a name="Autonomous Driving"></a>
+<a name="Driving"></a>
 
 # Autonomous Driving
 
@@ -427,7 +427,7 @@
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ProphNet_Efficient_Agent-Centric_Motion_Forecasting_With_Anchor-Informed_Proposals_CVPR_2023_paper.pdf
 
-<a name="Crowd Counting"></a>
+<a name="Counting"></a>
 
 # Crowd Counting
 
@@ -436,7 +436,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Optimal_Transport_Minimization_Crowd_Localization_on_Density_Maps_for_Semi-Supervised_CVPR_2023_paper.pdf
 - Code: https://github.com/Elin24/OT-M
 
-<a name="Face Recognition"></a>
+<a name="Face"></a>
 
 # Face Recognition
 
@@ -444,7 +444,7 @@
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Towards_Effective_Adversarial_Textured_3D_Meshes_on_Physical_Face_Recognition_CVPR_2023_paper.pdf
 
-<a name="Action Recognition"></a>
+<a name="Action"></a>
 
 # Action Recognition
 
@@ -458,7 +458,7 @@
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf
 - Code: https://karttikeya.github.io/publication/RAFTformer/
 
-<a name="Gait Recognition"></a>
+<a name="Gait"></a>
 
 # Gait Recognition
 
@@ -471,7 +471,7 @@
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.pdf
 
-<a name="Place Recognition"></a>
+<a name="Place"></a>
 
 # Place Recognition
 
@@ -480,7 +480,7 @@ R2Former: Unified Retrieval and Reranking Transformer for Place Recognition**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_R2Former_Unified_Retrieval_and_Reranking_Transformer_for_Place_Recognition_CVPR_2023_paper.pdf
 - Code: https://github.com/Jeff-Zilence/R2Former
 
-<a name="Gesture Generation"></a>
+<a name="Gesture"></a>
 
 # Gesture Generation 
 
@@ -590,7 +590,7 @@ R2Former: Unified Retrieval and Reranking Transformer for Place Recognition**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Meunier_Unsupervised_Space-Time_Network_for_Temporally-Consistent_Segmentation_of_Multiple_Motions_CVPR_2023_paper.pdf
 
-<a name="Multi-Modal Learning"></a>
+<a name="Multi-Modal"></a>
 
 # Multi-Modal Learning
 
@@ -766,7 +766,7 @@ R2Former: Unified Retrieval and Reranking Transformer for Place Recognition**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_VL-SAT_Visual-Linguistic_Semantics_Assisted_Training_for_3D_Semantic_Scene_Graph_CVPR_2023_paper.pdf
 - code: https://github.com/wz7in/CVPR2023-VLSAT
 
-<a name="Pose Estimation"></a>
+<a name="Pose"></a>
 
 # Pose Estimation
 
@@ -795,7 +795,7 @@ R2Former: Unified Retrieval and Reranking Transformer for Place Recognition**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_SMOC-Net_Leveraging_Camera_Pose_for_Self-Supervised_Monocular_Object_Pose_Estimation_CVPR_2023_paper.pdf
 
-<a name="3D Vision"></a>
+<a name="3D"></a>
 
 # 3D Vision
 
@@ -839,7 +839,7 @@ R2Former: Unified Retrieval and Reranking Transformer for Place Recognition**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Muller_DiffRF_Rendering-Guided_3D_Radiance_Field_Diffusion_CVPR_2023_paper.pdf
 - Code: https://sirwyver.github.io/DiffRF/
 
-**Neural Kernel Surface  Reconstruction**
+**Neural Kernel Surface Reconstruction**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Williams_Neural_Fields_As_Learnable_Kernels_for_3D_Reconstruction_CVPR_2022_paper.pdf
 - Code:  https://nv-tlabs.github.io/nkf
@@ -1024,7 +1024,7 @@ Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_RODIN_A_Genera
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_NeMo_Learning_3D_Neural_Motion_Fields_From_Multiple_Video_Instances_CVPR_2023_paper.pdf
 - Code:  https://sites.google.com/view/nemo-neural-motion-field
 
-<a name="Depth Estimation"></a>
+<a name="Depth"></a>
 
 # Depth Estimation
 
@@ -1047,7 +1047,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Christen_Learning_Human-to-Robot_Handovers_From_Point_Clouds_CVPR_2023_paper.pdf
 - Code: https://handover-sim2real.github.io/
 
-<a name="Camera Calibration"></a>
+<a name="Camera-Calibration"></a>
 
 # Camera Calibration
 
@@ -1060,7 +1060,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Johari_ESLAM_Efficient_Dense_SLAM_System_Based_on_Hybrid_Representation_of_CVPR_2023_paper.pdf
 - Code: https://www.idiap.ch/paper/eslam/
 
-<a name="Point Cloud"></a>
+<a name="Point-Cloud"></a>
 
 # Point Cloud
 
@@ -1077,7 +1077,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Long_PointClustering_Unsupervised_Point_Cloud_Pre-Training_Using_Transformation_Invariance_in_Clustering_CVPR_2023_paper.pdf
 - Code: https://github.com/FuchenUSTC/PointClustering
 
-<a name="Flow/Motion Estimation"></a>
+<a name="Flow"></a>
 
 # Flow/Motion Estimation
 
@@ -1097,7 +1097,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_TransFlow_Transformer_As_Flow_Learner_CVPR_2023_paper.pdf
 
-<a name="Motion Synthesis"></a>
+<a name="Motion-Synthesis"></a>
 
 # Motion Synthesis
 
@@ -1106,7 +1106,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Messikommer_Data-Driven_Feature_Tracking_for_Event_Cameras_CVPR_2023_paper.pdf
 - Code:  t https://vcai.mpi-inf.mpg.de/projects/MoFusion/
 
-<a name="Feature Tracking"></a>
+<a name="Feature-Tracking"></a>
 
 # Feature Tracking
 
@@ -1115,7 +1115,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Dabral_Mofusion_A_Framework_for_Denoising-Diffusion-Based_Motion_Synthesis_CVPR_2023_paper.pdf
 - Code:  https://github.com/uzh-rpg/deep_ev_tracker
 
-<a name="Medical Imaging"></a>
+<a name="Medical"></a>
 
 # Medical Imaging
 
@@ -1138,7 +1138,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Interventional_Bag_Multi-Instance_Learning_on_Whole-Slide_Pathological_Images_CVPR_2023_paper.pdf
 - Code:  https://github.com/HHHedo/IBMIL
 
-<a name="Methane Detection"></a>
+<a name="Methane"></a>
 
 # Methane Detection
 
@@ -1147,7 +1147,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Kumar_MethaneMapper_Spectral_Absorption_Aware_Hyperspectral_Transformer_for_Methane_Detection_CVPR_2023_paper.pdf
 - Code:  https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection
 
-<a name="Subcellular Structure"></a>
+<a name="Subcellular"></a>
 
  # Subcellular Structure
 
@@ -1163,7 +1163,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Code: https://correr-zhou.github.io/RepMode/
 
-<a name="DNN Optimization"></a>
+<a name="DNN"></a>
 
 # DNN Optimization
 
@@ -1182,7 +1182,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Gradient_Norm_Aware_Minimization_Seeks_First-Order_Flatness_and_Improves_Generalization_CVPR_2023_paper.pdf
 - Code: https://github.com/xxgege/GAM
 
-<a name="Representation Learning"></a>
+<a name="Representation"></a>
 
 # Representation Learning
 
@@ -1209,7 +1209,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.pdf
 - Code: https://github.com/baaivision/EVA/tree/master/EVA-01
 
-<a name="Zero-shot Learning"></a>
+<a name="Zero-shot"></a>
 
 # Zero-shot Learning
 
@@ -1218,7 +1218,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Progressive_Semantic-Visual_Mutual_Adaption_for_Generalized_Zero-Shot_Learning_CVPR_2023_paper.pdf
 - Code: https://github.com/ManLiuCoder/PSVMA
 
-<a name="Semi-supervised Learning"></a>
+<a name="Semi-supervised"></a>
 
 # Semi-supervised Learning
 
@@ -1231,7 +1231,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Sosea_MarginMatch_Improving_Semi-Supervised_Learning_with_Pseudo-Margins_CVPR_2023_paper.pdf
 - Code: https://github.com/tsosea2/MarginMatch
 
-<a name="Adversarial Robustness"></a>
+<a name="Robustness"></a>
 
 # Adversarial Robustness
 
@@ -1261,7 +1261,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Code: https://github.com/PKU-ML/Generalist
 
-<a name="Domain Adaptation"></a>
+<a name="Domain-Adaptation"></a>
 
 # Domain Adaptation
 
@@ -1274,7 +1274,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf
 
-<a name="Active Learning"></a>
+<a name="Active-Learning"></a>
 
 
 # Active Learning
@@ -1288,7 +1288,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf
 
-<a name="Dataset Condensation"></a>
+<a name="Dataset-Condensation"></a>
 
 # Dataset Condensation
 
@@ -1300,7 +1300,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Accelerating_Dataset_Distillation_via_Model_Augmentation_CVPR_2023_paper.pdf
 
-<a name="Federated Learning"></a>
+<a name="Federated-Learning"></a>
 
 # Federated Learning
 
@@ -1316,7 +1316,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Li_On_the_Effectiveness_of_Partial_Variance_Reduction_in_Federated_Learning_CVPR_2023_paper.pdf
 
-<a name="Visualization and Interpretability"></a>
+<a name="Visualization-Interpretability"></a>
 
 # Visualization and Interpretability 
 
@@ -1335,7 +1335,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Shi_Top-Down_Visual_Attention_From_Analysis_by_Synthesis_CVPR_2023_paper.pdf
 - Code: https://sites.google.com/view/absvit
 
-<a name="Knowledge Distillation"></a>
+<a name="Knowledge-Distillation"></a>
 
 # Knowledge Distillation
 
@@ -1343,7 +1343,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Coaching_a_Teachable_Student_CVPR_2023_paper.pdf
 
-<a name="Model Fitting"></a>
+<a name="Model-Fitting"></a>
 
 # Model Fitting
 
@@ -1352,7 +1352,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Farina_Quantum_Multi-Model_Fitting_CVPR_2023_paper.pdf
 - Code:  https://github.com/FarinaMatteo/qmmf
 
-Graph Neural Network<a name="Continue Learning"></a>
+Graph Neural Network<a name="Continue-Learning"></a>
 
 # Continue Learning
 
@@ -1365,7 +1365,7 @@ Graph Neural Network<a name="Continue Learning"></a>
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Madaan_Heterogeneous_Continual_Learning_CVPR_2023_paper.pdf
 
-<a name="Network Compression / Neural Architecture Search"></a>
+<a name="Network-Compression"></a>
 
 # Network Compression / Neural Architecture Search
 
@@ -1389,7 +1389,7 @@ Code:  https://snnet.github.io
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Mukhoti_Deep_Deterministic_Uncertainty_A_New_Simple_Baseline_CVPR_2023_paper.pdf
 
 
-<a name="Graph Neural Network"></a>
+<a name="Graph"></a>
 
 # Graph Neural Network
 
@@ -1397,7 +1397,7 @@ Code:  https://snnet.github.io
 
 Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf
 
-<a name="Multi-view Clustering"></a>
+<a name="Clustering"></a>
 
 # Multi-view Clustering
 
