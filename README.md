@@ -1352,7 +1352,7 @@ Image SegmentationSuper-ResolutionAction RecognitionGait RecognitionVideo3D Visi
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Farina_Quantum_Multi-Model_Fitting_CVPR_2023_paper.pdf
 - Code:  https://github.com/FarinaMatteo/qmmf
 
-Graph Neural Network<a name="Continue-Learning"></a>
+<a name="Continue-Learning"></a>
 
 # Continue Learning
 
@@ -1361,7 +1361,7 @@ Graph Neural Network<a name="Continue-Learning"></a>
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Ghunaim_Real-Time_Evaluation_in_Online_Continual_Learning_A_New_Hope_CVPR_2023_paper.pdf
 - Code:  https://github.com/Yasir-Ghunaim/RealtimeOCL
 
-**Heterogeneous Continual  Learning**
+**Heterogeneous Continual Learning**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Madaan_Heterogeneous_Continual_Learning_CVPR_2023_paper.pdf
 
@@ -1396,6 +1396,7 @@ Graph Neural Network<a name="Continue-Learning"></a>
 **Deep Graph Reprogramming**
 
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf
+
 
 <a name="Clustering"></a>
 
