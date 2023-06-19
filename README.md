@@ -1395,7 +1395,7 @@ Code:  https://snnet.github.io
 
 **Deep Graph Reprogramming**
 
-Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf
 
 <a name="Clustering"></a>
 
